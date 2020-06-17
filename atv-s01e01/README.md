@@ -20,7 +20,7 @@ Garante tolerância a falhas, facilitando a manutenção e aumentando a seguran�
 -	**Redes WAN são tipicamente mais lentas**, não são confiáveis e a comunicação se dá ponto a ponto do sistema.
 
 ## Técnicas de Escalabilidade:
-    Os problemas de escalabilidade, em geral, se apresentam como problemas de desempenho gerado pela limitação de servidores e rede, dessa forma são utilizadas técnicas para otimizar o sistema:
+    Os problemas de escalabilidade, em geral, se **apresentam como problemas de desempenho** gerado pela limitação de servidores e rede, dessa forma são utilizadas técnicas para otimizar o sistema:
 -	**Ocultar latência:** utilizar de comunicação assíncrona, ou seja, não esperar por respostas de requisição.
 Para aplicações interativas é interessante trazer parte do processamento para o cliente diminuindo a espera do serviço.
 -	**Distribuição:** dividir componentes do sistema em partes menores e espalha-las pelo sistema.
