@@ -7,6 +7,6 @@ Segue o repositório do professor com instruções e orientações para as ativi
 Contact me:
 francisco.peres@discente.ufma.br
 
-> Francisco das Chagas Peres Júnior
 
-> Aluno de Engenharia da Computação - UFMA
+######Francisco das Chagas Peres Júnior
+######Aluno de Engenharia da Computação - UFMA
