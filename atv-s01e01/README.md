@@ -1,5 +1,7 @@
 # Conceitos e características de sistemas distribuídos
 
+>  Francisco das Chagas Peres Júnior - Engenharia da Computação
+
 ## Definição:
 Um sistema distribuído é composto por vários computadores que interagem e se mostram como um sistema único e coerente ao usuário a fim de se prestar um serviço.
 
