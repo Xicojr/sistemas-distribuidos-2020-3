@@ -5,4 +5,7 @@ Esse repositório é voltado para a publicação de atividades e trabalhos da di
 Segue o repositório do professor com instruções e orientações para as atividades: https://github.com/rafaelfl/sistemas-distribuidos-2020-3/blob/master/README.md
 
 Contact me:
-francisco.peres@lsdi.ufma.br
+francisco.peres@discente.ufma.br
+
+> Francisco das Chagas Peres Júnior
+> Aluno de Engenharia da Computação - UFMA
