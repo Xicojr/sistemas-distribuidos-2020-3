@@ -1,6 +1,6 @@
 # Classificação de Hardware com várias CPUs
 
-        Francisco das Chagas Peres Júnior - Engenharia da Computação
+>  Francisco das Chagas Peres Júnior - Engenharia da Computação
 
 Como citado anteriormente na tarefa ‘atv-s01e01’ os sistemas distribuídos são particionados em diversos computadores e múltiplos processos ocorrem simultaneamente, ou seja, computação paralela.
 Em questão de hardware, esse tipo de computação ocorre em multiprocessadores que aumentam o desempenho dos processos. Esses multiprocessadores podem ser organizados de maneiras diferentes. 
