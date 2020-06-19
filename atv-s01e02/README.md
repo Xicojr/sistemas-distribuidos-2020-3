@@ -1,5 +1,7 @@
 # Classificação de Hardware com várias CPUs
 
+        Francisco das Chagas Peres Júnior - Engenharia da Computação
+
 Como citado anteriormente na tarefa ‘atv-s01e01’ os sistemas distribuídos são particionados em diversos computadores e múltiplos processos ocorrem simultaneamente, ou seja, computação paralela.
 Em questão de hardware, esse tipo de computação ocorre em multiprocessadores que aumentam o desempenho dos processos. Esses multiprocessadores podem ser organizados de maneiras diferentes. 
 
@@ -45,5 +47,5 @@ Essa é a maneira mais comum de se organizar sistemas com processadores paralelo
 -	TANENBAUM, Andrew S.; VAN STEEN, Maarten. **Sistemas distribuídos: Princípios e paradigmas**, 2 ed. São Paulo: Prentice Hall, 2007.
 -	STALLINGS, William. **Arquitetura e organização de computadores**, 8 ed. São Paulo: Pearson Hall, 2010.
 -	LOPES, Rafael Fernandes. **S01E02 - Classificação de Hardware com várias CPUs**. 2020. (16:26). Disponível em: < https://www.youtube.com/watch?v=RdEEK7JWc30>. Acesso em: 18 jun. 2020
-
+-   CRUZ, Pedro. **Multiprocessadores & Multicomputadores**. 2017. 55 slides. Disponível em : <https://www.gta.ufrj.br/~cruz/courses/eel770/slides/17_multiproc_multicomp.pdf> Acessado em: 18 jun. 2020
 
